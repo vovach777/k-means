@@ -22,9 +22,9 @@
 #include <assert.h>
 #include <string.h>
 #include <limits>
-using namespace std;
 
 namespace alg {
+   using namespace std;
    template <typename T, typename A>
 	class KMeans {
 		public:
